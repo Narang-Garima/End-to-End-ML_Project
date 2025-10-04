@@ -1,6 +1,7 @@
 # Git Commands
 - git init
 - git add <File>
+- git add .
 - git status
 - git commit -m "message"
 - git remote add origin <url>
