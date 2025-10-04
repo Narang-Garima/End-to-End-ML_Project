@@ -8,7 +8,7 @@
 - git remote remove origin(if have to remove)
 - git branch
 - git checkout <branch>( to switch branch)
-- git checkout -b <branch>( to create new branch)
+- git branch <newbranch>( to create new branch)
 - git remote -v
 - git push -u origin <branch>
 - git config --global user.name "name"
@@ -19,5 +19,5 @@
 
 ## env comnd
 - conda create -p venv python=3.11 -y
-- 
+- conda activate <env name>
 - 
