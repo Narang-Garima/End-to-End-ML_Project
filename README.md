@@ -13,4 +13,9 @@
 - git push -u origin <branch>
 - git config --global user.name "name"
 - git config --global user.email "email of github"
+- git pull origin <branch>
+
+## env comnd
+- conda create -p venv python=3.11 -y
+- 
 - 
