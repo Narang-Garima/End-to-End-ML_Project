@@ -10,7 +10,7 @@ raw_data.csv  -->  preprocess.py  -->  processed_data.csv  -->  train.py  -->  m
 dont put dvc in requirements
 
 ## dvc commands
-###important-- we dont want git track dvc files so put 
+###important-- we dont want git track dvc files so
 dvc init
 
 
